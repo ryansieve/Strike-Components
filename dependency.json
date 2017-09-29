@@ -2,7 +2,7 @@
   "strike_tooltip": ["strike_tooltip"],
   "strike_badge": ["strike_badge"],
   "strike_chart": ["strike_chart"],
-  "strike_dataGrid": ["strike_row", "strike_dataGrid"],
+  "strike_dataGrid": ["defaultTokens", "strike_row", "strike_dataGrid"],
   "strike_row": ["strike_row"],
   "strike_modal": ["strike_evt", "strike_modal"],
   "strike_input": ["strike_evt", "strike_tooltip", "strike_input"],
